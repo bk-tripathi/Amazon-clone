@@ -1,0 +1,28 @@
+.list_items{
+    /* width:max-content; */
+}
+.menu{
+    padding: 6px;
+}
+ul{
+
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#232F3E ;
+    line-height:12px ;
+    color: white;
+}
+li{
+    font-weight: 400px;
+    font-size:14px ;
+    white-space:nowrap;
+    overflow:hidden;
+    
+}
+li a{
+    color: white;
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+}
