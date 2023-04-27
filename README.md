@@ -5,6 +5,6 @@
 ![chrome_VUVdfyUXrO](https://user-images.githubusercontent.com/91748467/234784435-678316a7-fe9f-4a79-83e9-5914d2f9f922.png)
 
 For Starting The Project Use Below Command
-1..   npm install
-2..   npm start
 
+#  `npm install `
+# ` npm start`
